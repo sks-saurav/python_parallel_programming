@@ -29,10 +29,8 @@ def _download_image(image_number):
 """ parallel implementation of multiple image downloader
     returns total bytes from downloading all images in image_numbers list """
 def par_download_images(image_numbers):
+    # TODO:
     pass
-    """ ******************* """
-    """ YOUR CODE GOES HERE """
-    """ ******************* """
 
 if __name__ == '__main__':
     NUM_EVAL_RUNS = 1
